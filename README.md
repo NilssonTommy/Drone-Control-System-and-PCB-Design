@@ -1,2 +1,2 @@
 # Drone-Control-System-and-PCB-Design
- Drone Control System and PCB design
+Ongoing project developing a fully integrated drone control system with custom PCB design. Built using STM32, Embedded C, and KiCad/Altium. Focus on motor control, sensor integration, wireless communication, and power management.
